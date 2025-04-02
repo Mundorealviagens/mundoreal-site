@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <div className="min-h-screen bg-gray-50 px-4 py-16 text-center">
-      <h1 className="text-4xl font-bold mb-6">🌎 Bem-vindo à Mundo Real Viagens</h1>
+      <h1 className="text-4xl font-bold mb-6 text-red-600">🌎 Bem-vindo à Mundo Real Viagens</h1>
       <p className="text-lg mb-10">Explore nossas experiências incríveis de viagem com fé, emoção e propósito!</p>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto">
