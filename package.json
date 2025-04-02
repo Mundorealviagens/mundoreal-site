@@ -6,3 +6,6 @@
   "postcss": "latest",
   "autoprefixer": "latest"
 }
+"tailwindcss": "latest",
+"postcss": "latest",
+"autoprefixer": "latest"
